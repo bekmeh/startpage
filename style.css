@@ -3,9 +3,9 @@
 html {
       background-color: #1a1b26;
       align-items: center;
-      color: #ebdbb2;
+      color: #bd7280;
       display: flex;
-      font-family: 'Ubuntu Mono', monospace;
+      font-family: 'Inconsolata', monospace;
       font-size: 25px;
       height: 100%;
       justify-content: center;
@@ -33,7 +33,7 @@ html {
 
     a:focus,
     a:hover {
-      color: #a9b1d6;
+      color: #ff7a93;
     }
 
     nav {
